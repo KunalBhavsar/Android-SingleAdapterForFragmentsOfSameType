@@ -9,4 +9,6 @@
 3. EventsAdapter - BaseAdapter which is used to show the list of events in fragemnts.
 4. DomainClasses - Event and Datetime.
 
-
+- Screenshots.
+![Alt text](http://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/Screenshot1.png "First Fragment")
+![Alt text](http://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/Screenshot2.png "Second Fragment")
