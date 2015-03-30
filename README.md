@@ -10,5 +10,5 @@
 4. DomainClasses - Event and Datetime.
 
 - Screenshots.
-![First Fragement Screenshot](http://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/Screenshot1.png)
-![Second Fragement Screenshot](http://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/Screenshot2.png)
+![ScreenShot](https://raw.github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/Screenshot1.png)
+![ScreenShot](https://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/Screenshot2.png)
