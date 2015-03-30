@@ -10,9 +10,6 @@
 4. DomainClasses - Event and Datetime.
 
 - Screenshots.
-![ScreenShot](https://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/blob/master/Screenshot1.png)
-![ScreenShot](https://github.com/KunalBhavsar/SingleAdapterForFragmentsOfSameType/blob/master/Screenshot2.png)
-
 <div align="center">
         <img width="45%" src="Screenshot1.png" alt="First Fragment" title="First Fragment"</img>
         <img height="0" width="8px">
