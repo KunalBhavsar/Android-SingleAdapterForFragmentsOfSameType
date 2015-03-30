@@ -12,9 +12,9 @@
 - Also for showing data in the list view of Today and Tommorow fragment, I used the same adapter i.e. EventsAdapter.
 
 - Project contains:
-1. MainActivity - Activity which contains tabs and its relative fragments with pager.
+1. EventListActivity - Activity which contains tabs and its relative fragments using pager.
 2. EventsFragment - Fragment for showing the list of events.
 3. EventsAdapter - BaseAdapter which is used to show the list of events in fragments.
 4. DomainClasses - Event and Datetime.
-5. Xml files.
+5. Xml files required.
 
